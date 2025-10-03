@@ -1,5 +1,12 @@
 body {
-background-color: #fc7abb;
-color: aliceblue;
+background-color: hsl(330, 93%, 82%);
+color: #ffeff8;
 font-family: "Bai Jamjuree", sans-serif;
+
+
+}
+button {
+    background-color: #fabedc;
+    color:white;
+    font-family: "bai jamjure", Sans-serif;
 }
